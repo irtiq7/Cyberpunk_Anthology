@@ -52,7 +52,7 @@ The winning story will be highlighted in the `featured/` folder and showcased he
 
 ---
 
-## 📖 License
+## 📖 License (example)
 
 All stories are shared under the **Creative Commons Attribution-ShareAlike 4.0 International License**, unless otherwise noted.
 
